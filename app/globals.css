@@ -56,16 +56,16 @@ body {
 }
 
 .headerBg{
-  background-image: url("/adiyogi.jpg");
+  background-image: url("/Mukteshwar_Banner.jpg");
   background-size: cover;
 }
-
+/* 
 @media (max-width: 768px) {
   .headerBg{
     background-image: url("/adiyogiMobile.jpg");
     background-size: cover;
   }
-}
+} */
 
 
 .hoveredDiv{
