@@ -71,12 +71,12 @@ const FleetInformationSection = () => {
               </div>
               <div className="flex flex-col lg:flex-row space-y-5 lg:space-y-0 lg:space-x-5 mt-5">
                 <img
-                  src="/Ertiga1.jpg"
+                  src="/ertiga1.jpg"
                   alt="Image 1"
                   className="lg:w-[50%] h-[400px] object-cover rounded-[8px]"
                 />
                 <img
-                  src="/Ertiga2.jpg"
+                  src="/ertiga2.jpg"
                   alt="Image 1"
                   className="lg:w-[50%] h-[400px] object-cover rounded-[8px]"
                 />
