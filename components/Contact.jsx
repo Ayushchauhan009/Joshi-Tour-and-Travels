@@ -52,7 +52,7 @@ const ContactUs = () => {
                   </p>
                 </div>
               </div>
-              <div className="text-center lg:pt-16 md:text-left">
+              <div className="text-center lg:pt-5 md:text-left">
                 <p className="text-xl lg:text-[24px] font-semibold text-white leading-relaxed mb-5">
                   Ready to explore Mukteshwar?
                 </p>
