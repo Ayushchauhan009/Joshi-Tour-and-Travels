@@ -11,7 +11,7 @@ const About = () => {
       <div className="container mx-auto max-w-[1440px] px-5 lg:px-24 mt-2 lg:mt-10 lg:space-x-5 flex-col lg:flex-row flex  items-start">
         <div className="w-full md:w-1/2 mb-6  md:mb-0">
           <p className="text-lg text-[#f5f5f5] text-center leading-[30px] lg:text-left">
-            Discover Joshi Tour and Travels & Cab Services, your trusted
+            Discover Kedarvasi Tour and Travels & Cab Services, your trusted
             companion for seamless travel experiences in the enchanting
             Mukteshwar, Uttarakhand. Our extensive range of services encompasses
             airport transfers, local sightseeing excursions, and outstation
@@ -47,42 +47,42 @@ const About = () => {
           {/* Replace the image URLs with your actual image URLs */}
           <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
             <img
-              src="/bhalugaad2.jpg"
-              alt="Bhalugaad Waterfalls"
+              src="/nainital.jpg"
+              alt="Nainital Lake"
               className="rounded-lg h-[370px]  w-full"
             />
-            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[13%] pt-80 w-full bg-black ">
-              <h3 className="text-xl font-bold">Bhalugaad Waterfalls</h3>
+            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[28%] pt-80 w-full bg-black ">
+              <h3 className="text-xl font-bold">Nainital Lake</h3>
+            </div>
+          </div>
+          <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
+            <img
+              src="/Kainchi.jpg"
+              alt="Kainchi Dham"
+              className="rounded-lg  object-cover w-full h-[370px]"
+            />
+            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[30%] pt-80 w-full bg-black ">
+              <h3 className="text-xl font-bold">Kainchi Dham</h3>
+            </div>
+          </div>
+          <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
+            <img
+              src="/mukteshwar-mahadev.jpg"
+              alt="Mukteshwar Mahadev Mandir"
+              className="rounded-lg object-cover w-full h-[370px]"
+            />
+            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[14%] pt-80 w-full bg-black ">
+              <h3 className="text-xl font-bold">Mukteshwar Mahadev</h3>
             </div>
           </div>
           <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
             <img
               src="/Dol-Ashram.jpg"
               alt="Dol Ashram"
-              className="rounded-lg  object-cover w-full h-[370px]"
+              className="rounded-lg object-cover w-full h-[370px]"
             />
             <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[30%] pt-80 w-full bg-black ">
               <h3 className="text-xl font-bold">Dol Ashram</h3>
-            </div>
-          </div>
-          <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
-            <img
-              src="/jageshwar-1.jpg"
-              alt="Jageshwar Dham"
-              className="rounded-lg object-cover w-full h-[370px]"
-            />
-            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[20%] pt-80 w-full bg-black ">
-              <h3 className="text-xl font-bold">Jageshwar Dham</h3>
-            </div>
-          </div>
-          <div className="relative hover:scale-105 transition-all hoveringDiv flex justify-center h-[370px] items-center ">
-            <img
-              src="/bhalugaadwaterfalls.jpg"
-              alt="Bhalugaad Waterfalls"
-              className="rounded-lg object-cover w-full h-[370px]"
-            />
-            <div className="absolute hoveredDiv bg-opacity-70 h-[370px] rounded-[8px] pl-[13%] pt-80 w-full bg-black ">
-              <h3 className="text-xl font-bold">Bhalugaad Waterfalls</h3>
             </div>
           </div>
           {/* Add more images as needed */}

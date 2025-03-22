@@ -14,7 +14,7 @@ const Testimonials = () => {
             <div className="w-[100%] lg:w-[1/3] px-4 mb-8">
               <div className="bg-[#0a4959] p-6 rounded-lg shadow-lg">
                 <p className="text-lg text-white leading-relaxed mb-4">
-                  "Joshi Tour and Travels, Mukteshwar, provided me with
+                  "Kedarvasi Tour and Travels, Mukteshwar, provided me with
                   exceptional service during my recent trip to Uttarakhand.
                   Their drivers were punctual, courteous, and knowledgeable
                   about the area. I highly recommend their services to anyone
@@ -28,7 +28,7 @@ const Testimonials = () => {
             <div className="w-full lg:w-[1/3] px-4 mb-8">
               <div className="bg-[#0a4959] p-6 rounded-lg shadow-lg">
                 <p className="text-lg text-white leading-relaxed mb-4">
-                  "I had a wonderful experience with Joshi Tour and Travels,
+                  "I had a wonderful experience with Kedarvasi Tour and Travels,
                   Mukteshwar. The booking process was seamless, and their rates
                   were very competitive. The driver was friendly and helped me
                   explore the local attractions. I will definitely use their
@@ -42,7 +42,7 @@ const Testimonials = () => {
             <div className="w-full lg:w-[1/3] px-4 mb-8">
               <div className="bg-[#0a4959] p-6 rounded-lg shadow-lg">
                 <p className="text-lg text-white leading-relaxed mb-4">
-                  "Highly impressed with Joshi Tour and Travels, Mukteshwar!
+                  "Highly impressed with Kedarvasi Tour and Travels, Mukteshwar!
                   Their professionalism and dedication to customer satisfaction
                   are commendable. I felt safe and comfortable throughout my
                   journey. Definitely the best taxi service in town!"

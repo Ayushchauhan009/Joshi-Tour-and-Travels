@@ -7,13 +7,16 @@ const Navbar = () => {
     <nav className="bg-black bg-opacity-50 z-50 shadow-md fixed top-0 left-0 w-full  p-4">
       <div className="max-container px-0 lg:px-20 flex justify-between items-center">
         <Link href="/">
-          <img
+          {/* <img
             src="/JoshiTourandTravels.png"
             alt="Joshi Tour and Travels"
             className="w-48 object-cover lg:w-60"
-          />
+          /> */}
+          <h1 className="text-white text-lg font-bold lg:text-xl">
+            Kedarvasi Tour and Travels
+          </h1>
         </Link>
-        <a href="tel:+918393986577">
+        <a href="tel:+918445862925">
           <button className="px-4 py-2 font-semibold hover:text-[#F89339] text-white lg:text-[18px] transition-all bg-[#F89339] rounded-[8px]  hover:bg-white">
             Call Now
           </button>

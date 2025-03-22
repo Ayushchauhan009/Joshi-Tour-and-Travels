@@ -29,25 +29,18 @@ const ContactUs = () => {
                   <p className="text-lg text-white w-auto leading-relaxed mb-2">
                     Phone:{" "}
                     <a
-                      href="tel:+918393986577"
+                      href="tel:+918445862925"
                       className="text-[#F89339] hover:underline"
                     >
-                      +918393986577
-                    </a>
-                    <span className="mx-1">/</span>
-                    <a
-                      href="tel:+917018440120"
-                      className="text-[#F89339] hover:underline"
-                    >
-                      7018440120
+                      8445862925
                     </a>
                     <span className="mx-1">/</span>
                     <br className="block lg:hidden" />
                     <a
-                      href="tel:+919410169816"
+                      href="tel:+919084855978"
                       className="text-[#F89339] hover:underline"
                     >
-                      9410169816
+                      9084855978
                     </a>
                   </p>
                 </div>
@@ -56,7 +49,7 @@ const ContactUs = () => {
                 <p className="text-xl lg:text-[24px] font-semibold text-white leading-relaxed mb-5">
                   Ready to explore Mukteshwar?
                 </p>
-                <a href="tel:+918393986577">
+                <a href="tel:+919084855978">
                   <button className="px-4 py-4 mx-auto lg:mx-0 font-semibold hover:text-[#F89339] text-white lg:text-[18px] transition-all bg-[#F89339] rounded-[8px]  hover:bg-white">
                     Book Your Cab Now
                   </button>

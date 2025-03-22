@@ -40,7 +40,7 @@ const page = () => {
       <WhyChooseUs />
       <FleetInformationSection />
       <AboutMukteshwar />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <ContactUs />
       <Footer />
     </div>
